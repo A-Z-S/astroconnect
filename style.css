@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+#refresh {
+  position: absolute;
+  top: 570px;
+  left: 570px;
+  color: #C0C0C0;
+}
